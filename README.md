@@ -11,3 +11,5 @@ The features in the data include:
 * **Age**: Age of the Patient
 * **HCC.Riskscore**: Risk Adjustment is a process for quantifying an individual's health (or sickness) into a Risk Adjusment Factor or risk score
 * **DRG.Complication**: MedicalMCC.CC, MedicalNoC, SurgMCC.CC, Surg NoC, Med+SurgOther, and Ungroup Other
+
+This data is copyright free. 
