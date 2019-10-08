@@ -1,5 +1,6 @@
 # Hospital
-Hospital Readmission Data
+Hospital Readmission Data: A group of hospitals provided the data they have supplied to obtain a generalized
+linear model (GLM) that is superior to the LACE index.
 
 The features in the data include:
 * **Readmission.Status**: 1 if readmitted, otherwise 0.
