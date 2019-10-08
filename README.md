@@ -6,7 +6,7 @@ The features in the data include:
 * **Gender**: Male or Female
 * **Race**: White or Black
 * **ER**:
-* **DRG.Class**: DRG is composed of 2 groups: medical or surgical
+* **DRG.Class**: DRG (diagnosis-related group) is composed of 2 groups: medical or surgical
 * **LOS**: Length of stay
 * **Age**: Age of the Patient
 * **HCC.Riskscore**: Risk Adjustment is a process for quantifying an individual's health (or sickness) into a Risk Adjusment Factor or risk score
