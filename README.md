@@ -1,6 +1,5 @@
 # Hospital
-Hospital Readmission Data: A group of hospitals provided the data they have supplied to obtain a generalized
-linear model (GLM) that is superior to the LACE index.
+Hospital Readmission Data: A group of hospitals provided the data to obtain a generalized linear model (GLM) that is superior to the LACE index - The LACE index is a simple tool with four parameters: Length of stay, Acuity of admission, Comorbidity, and Emergency visits in the previous 6 months.
 
 The features in the data include:
 * **Readmission.Status**: 1 if readmitted, otherwise 0.
